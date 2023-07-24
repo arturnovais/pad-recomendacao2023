@@ -1,2 +1,2 @@
 # pad-recomendacao2023
-Repositório utilizado para armazenar o processo do projeto de recomendação de filmes da matéria Pensamento Analítico de Dados do bacharelado em Inteligência Artificial
+Este repositório é utilizado para armazenar o processo do projeto de recomendação de filmes da disciplina Pensamento Analítico de Dados do curso de bacharelado em Inteligência Artificial.
