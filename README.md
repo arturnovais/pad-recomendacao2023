@@ -8,3 +8,5 @@ Este repositório é utilizado para armazenar o projeto de recomendação de fil
 Pergunta: Será que a recomendação personalizada de filmes melhora a experiência do usuário?
 
 Dataset: MovieLens data set by GroupLens.
+
+OBS: Recommender system with a MOEA/D.
