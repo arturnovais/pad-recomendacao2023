@@ -1,4 +1,4 @@
-# PAD(2023) - Sistema de recomendação de filmes
+# PAD(2023) - Sistema de recomendação de filmes (CineRec)
 
 <img src="https://img.shields.io/static/v1?label=Python&labelColor=306998&message=3&color=FFD43B&logo=Python&logoColor=ffffff&style=plastic" alt="Python"/>
 
