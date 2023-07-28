@@ -5,7 +5,7 @@
 
 Este repositório é utilizado para armazenar o projeto de recomendação de cervejas da disciplina Pensamento Analítico de Dados do curso de bacharelado em Inteligência Artificial. (Projeto final de disciplina)
 
-Pergunta: Será que é possível melhorar a experiência do usuário dado suas experiências anteriores?
+Pergunta: Será que é possível melhorar a experiência do usuário se soubermos suas experiências anteriores ?
 
 Dataset: beer_review data set by Kaggle (RUTHGN).
 
