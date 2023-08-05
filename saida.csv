@@ -1,0 +1,200 @@
+beer_style,ibu_min,ibu_max
+Altbier,25.0,50.0
+Amber Kellerbier,25.0,40.0
+American Amber Ale,25.0,40.0
+American Barleywine,50.0,100.0
+American Brown Ale,20.0,30.0
+American IPA,40.0,70.0
+American Lager,8.0,18.0
+American Light Lager,8.0,12.0
+American Pale Ale,30.0,50.0
+American Porter,25.0,50.0
+American Stout,35.0,75.0
+American Strong Ale,50.0,100.0
+American Wheat Beer,15.0,30.0
+Australian Sparkling Ale,20.0,35.0
+Autumn Seasonal Beer,5.0,50.0
+Baltic Porter,20.0,40.0
+Belgian Blond Ale,15.0,30.0
+Belgian Dark Strong Ale,20.0,35.0
+Belgian Dubbel,15.0,25.0
+Belgian Golden Strong Ale,22.0,35.0
+Belgian IPA,50.0,100.0
+Belgian Pale Ale,20.0,30.0
+Belgian Tripel,20.0,40.0
+Berliner Weisse,3.0,8.0
+Bi�re de Garde,18.0,28.0
+Black IPA,50.0,90.0
+Blonde Ale,15.0,28.0
+Brett Beer,5.0,50.0
+British Brown Ale,20.0,30.0
+British Golden Ale,20.0,45.0
+British Strong Ale,30.0,60.0
+British Strong Ale: Burton Ale,40.0,50.0
+Brown IPA,40.0,70.0
+California Common,30.0,45.0
+Catharina Sour,2.0,8.0
+Classic Style Smoked Beer,5.0,50.0
+Clone Beer,5.0,50.0
+Cream Ale,8.0,20.0
+Czech Amber Lager,20.0,35.0
+Czech Dark Lager,18.0,34.0
+Czech Pale Lager,20.0,35.0
+Czech Premium Pale Lager,30.0,45.0
+Dark Mild,10.0,25.0
+Doppelbock,16.0,26.0
+Dorada Pampeana,15.0,22.0
+Double IPA,60.0,120.0
+Dunkles Bock,20.0,27.0
+Dunkles Weissbier,10.0,18.0
+Eisbock,25.0,35.0
+English Barleywine,35.0,70.0
+English IPA,40.0,60.0
+English Porter,18.0,35.0
+Experimental Beer,5.0,50.0
+Festbier,18.0,25.0
+Flanders Red Ale,10.0,25.0
+Foreign Extra Stout,50.0,70.0
+Fruit Beer,5.0,50.0
+Fruit Lambic,0.0,10.0
+Fruit and Spice Beer,5.0,50.0
+German Helles Exportbier,20.0,30.0
+German Leichtbier,15.0,28.0
+German Pils,22.0,40.0
+Gose,5.0,12.0
+Gueuze,0.0,10.0
+Helles Bock,23.0,35.0
+IPA Argenta,35.0,60.0
+Imperial Stout,50.0,90.0
+International Amber Lager,8.0,25.0
+International Dark Lager,8.0,20.0
+International Pale Lager,18.0,25.0
+Irish Extra Stout,35.0,50.0
+Irish Red Ale,18.0,28.0
+Irish Stout,25.0,45.0
+Italian Grape Ale,10.0,30.0
+Kellerbier: Amber Kellerbier,25.0,40.0
+Kellerbier: Pale Kellerbier,20.0,35.0
+Kentucky Common,15.0,30.0
+K�lsch,18.0,30.0
+Lambic,0.0,10.0
+Lichtenhainer,5.0,12.0
+London Brown Ale,15.0,20.0
+Mixed-Fermentation Sour Beer,5.0,50.0
+Mixed-Style Beer,5.0,50.0
+Munich Dunkel,18.0,28.0
+Munich Helles,16.0,22.0
+M�rzen,18.0,24.0
+New England IPA,25.0,60.0
+New Zealand Pilsner,25.0,45.0
+Oatmeal Stout,25.0,40.0
+Old Ale,30.0,60.0
+Ordinary Bitter,25.0,35.0
+Oud Bruin,20.0,25.0
+Piwo Grodziskie,20.0,35.0
+Pre-Prohibition Lager,25.0,40.0
+Pre-Prohibition Porter,20.0,30.0
+Rauchbier,20.0,30.0
+Red IPA,40.0,70.0
+Roggenbier,10.0,20.0
+Rye IPA,50.0,75.0
+Sahti,7.0,15.0
+Saison,20.0,35.0
+Schwarzbier,20.0,30.0
+Scottish Export,15.0,30.0
+Scottish Heavy,10.0,20.0
+Scottish Light,10.0,20.0
+Specialty Fruit Beer,5.0,50.0
+Specialty Smoked Beer,5.0,50.0
+Specialty Wood-Aged Beer,5.0,50.0
+"Spice, Herb or Vegetable Beer",5.0,50.0
+Strong Bitter,30.0,50.0
+Sweet Stout,20.0,40.0
+Trappist Single,25.0,45.0
+Tropical Stout,30.0,50.0
+Vienna Lager,18.0,30.0
+Wee Heavy,17.0,35.0
+Weissbier,8.0,15.0
+Weizenbock,15.0,30.0
+Wheatwine,30.0,60.0
+White IPA,40.0,70.0
+Wild Specialty Beer,5.0,50.0
+Winter Seasonal Beer,5.0,50.0
+Witbier,8.0,20.0
+Hefeweizen,10.0,15.0
+English Strong Ale,30.0,60.0
+Foreign / Export Stout,50.0,70.0
+German Pilsener,25.0,25.0
+American Double / Imperial IPA,120,120
+Herbed / Spiced Beer,15,15
+Light Lager,8,12
+American Pale Lager,30,30
+American Pale Ale (APA),35,35
+Belgian Strong Dark Ale,20,35
+Russian Imperial Stout,60,60
+American Amber / Red Ale,25,40
+Märzen / Oktoberfest,21,21
+American Adjunct Lager,5,19
+American Blonde Ale,21,21
+Euro Pale Lager,15,27
+English Brown Ale,15,25
+Scotch Ale / Wee Heavy,17,35
+Fruit / Vegetable Beer,20,20
+American Double / Imperial Stout,35,75
+English Bitter,25,40
+Irish Dry Stout,27,27
+Belgian Strong Pale Ale,22,35
+Maibock / Helles Bock,25,25
+Pumpkin Ale,15,15
+Dortmunder / Export Lager,23,30
+Euro Strong Lager,5,15
+Bock,22,22
+English India Pale Ale (IPA),40,60
+Euro Dark Lager,25,25
+Low Alcohol Beer,20,20
+Extra Special / Strong Bitter (ESB),30,50
+Kölsch,18,25
+Munich Dunkel Lager,18,28
+Rye Beer,60,60
+American Pale Wheat Ale,15,30
+Milk / Sweet Stout,28,28
+American Amber / Red Lager,20,20
+Scottish Ale,21,21
+American Black Ale,58,58
+Saison / Farmhouse Ale,18,18
+English Dark Mild Ale,10,25
+California Common / Steam Beer,30,45
+Czech Pilsener,30,30
+English Pale Ale,30,30
+Tripel,20,40
+Flanders Oud Bruin,5,18
+Winter Warmer,23,23
+Smoked Beer,30,30
+Dubbel,25,25
+Dunkelweizen,15,15
+Keller Bier / Zwickel Bier,25,35
+Belgian Dark Ale,20,35
+Bière de Garde,31,31
+Japanese Rice Lager,6,18
+Black & Tan,17,17
+Chile Beer,8,8
+English Stout,26,26
+American Wild Ale,22,22
+American Double / Imperial Pilsner,8,18
+Scottish Gruit / Ancient Herbed Ale,22,22
+American Dark Wheat Ale,22,22
+American Malt Liquor,12,23
+Munich Helles Lager,16,22
+Kristalweizen,10,15
+English Pale Mild Ale,10,10
+Lambic - Fruit,0,10
+Quadrupel (Quad),22,22
+Braggot,30,30
+Lambic - Unblended,0,10
+Berliner Weissbier,7,7
+Kvass,12,12
+Faro,10,10
+Happoshu,11,11
+Bière de Champagne / Bière Brut,40,40
+
+
