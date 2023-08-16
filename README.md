@@ -7,4 +7,4 @@ Este repositório é utilizado para armazenar o projeto de recomendação de cer
 
 Pergunta: Será que é possível melhorar a experiência do usuário se soubermos suas experiências anteriores ?
 
-Dataset: beer_review data set by Kaggle (RUTHGN).
+Dataset: beer_review data set by Kaggle (BeerAdvocates).
